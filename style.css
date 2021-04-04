@@ -7,4 +7,42 @@ h1 {
     text-align: center;
     background-color: #878f99;
     font-size: 4em;
+
+}
+.boxes {
+    position: relative;
+    max-width:100%;
+    max-height:100%;
+}
+.top-row {
+    position: absolute;
+    top: 0;
+}
+.bottom-row {
+    position: absolute;
+    top :400px;
+}
+section {
+    display: block;
+    background-color: #878f99;
+    width: 28%;
+    height: 300px;;
+    padding: 20px;
+    text-align: center;
+    overflow:hidden;
+    margin: 2%;
+}
+#photo {
+    max-width:75%;
+    max-height:75%;
+    /* padding: auto; */
+}
+.left {
+    left: 0;
+}
+.right {
+    right: 0;
+}
+.middle {
+    left: 32.333%;
 }
