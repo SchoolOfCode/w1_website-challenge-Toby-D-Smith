@@ -6,3 +6,5 @@ https://coolors.co/1c0221-82ff9e-e6af2e-6b6d76-a2b9bc Currently using this colou
 My first task was create the layout of the website. This took a little bit of time, ending up forcing each block into place using a larger block. Then I discovered flexbot. Never have I been so delighted and annoyed at the same time! It was wonderful, made instant improvements and was really easy! However it did make all the work I had put into my website completely redundant.
 
 Changed the Colour Scheme a bit as I wanted a darker background, then filled it with her info. Added some social media tags at the bottom.
+
+Struggled a little bit making the social media tags work. I wanted to use percentage so it fits better with other screens however ended up using pixels as the percentage struggled with flex.
